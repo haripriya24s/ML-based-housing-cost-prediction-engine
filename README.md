@@ -1,8 +1,8 @@
-\# 🏠 ML-Based Housing Cost Prediction Engine
+🏠 ML-Based Housing Cost Prediction Engine
 
 
 
-\## 📌 Overview
+📌 Overview
 
 
 
@@ -12,11 +12,11 @@ It helps users estimate property prices using a trained ML model.
 
 
 
-\---
 
 
 
-\## 🚀 Features
+
+🚀 Features
 
 
 
@@ -32,11 +32,11 @@ It helps users estimate property prices using a trained ML model.
 
 
 
-\---
 
 
 
-\## 🧠 Technologies Used
+
+🧠 Technologies Used
 
 
 
@@ -58,7 +58,7 @@ It helps users estimate property prices using a trained ML model.
 
 
 
-\## 📂 Project Structure
+📂 Project Structure
 
 
 
@@ -88,7 +88,7 @@ ML-Based Housing Cost Prediction Engine/
 
 
 
-\## ⚙️ Installation
+⚙️ Installation
 
 
 
@@ -132,7 +132,7 @@ pip install -r requirements.txt
 
 
 
-\## ▶️ Usage
+ ▶️ Usage
 
 
 
@@ -164,7 +164,7 @@ python src/predict.py
 
 
 
-\## 📊 Model Details
+📊 Model Details
 
 
 
@@ -184,11 +184,7 @@ python src/predict.py
 
 
 
-\## 📸 Screenshots
 
-
-
-(Add your project screenshots here)
 
 
 
@@ -196,7 +192,7 @@ python src/predict.py
 
 
 
-\## 📈 Future Improvements
+📈 Future Improvements
 
 
 
@@ -214,7 +210,7 @@ python src/predict.py
 
 
 
-\## 🤝 Contributing
+ 🤝 Contributing
 
 
 
@@ -226,7 +222,7 @@ Feel free to fork and contribute to this project.
 
 
 
-\## 📄 License
+ 📄 License
 
 
 
@@ -238,7 +234,7 @@ This project is open-source.
 
 
 
-\## 👩‍💻 Author
+ 👩‍💻 Author
 
 
 
